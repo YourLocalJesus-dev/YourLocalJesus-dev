@@ -1,11 +1,14 @@
 <!-- PROFILE README START -->
 
 <div align="center">
-  
-# 👑 Your Highness – *YourLocalJesus-dev*  
-⚡ Code Alchemist | 🎬 Visual Sorcerer | 🌐 Web Craftsman  
 
-![Neon Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=50&duration=1&pause=100000&color=7C3AED&center=true&vCenter=true&width=800&height=100&lines=Nilay+Mishra" alt="Nilay Mishra" />
+
+---
+
+## ⚡ Code Alchemist | 🎬 Visual Sorcerer | 🌐 Web Craftsman  
+
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
 
 </div>
 
@@ -30,6 +33,7 @@
 ---
 
 ## 🚀 Featured Realm  
+
 <p align="center">
   <a href="https://solace-self.vercel.app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourLocalJesus-dev&repo=solace&theme=tokyonight&hide_border=true" />
