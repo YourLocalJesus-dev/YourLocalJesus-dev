@@ -1,68 +1,43 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=60&duration=1&pause=100000&color=8B5CF6&center=true&vCenter=true&width=1000&height=120&lines=Nilay+Mishra" alt="Nilay Mishra" />
+# ⋄ Nilay Mishra ⋄
 
----
+**Code Alchemist • Visual Sorcerer • Web Craftsman**
 
-## ⚡ Code Alchemist • 🎬 Visual Sorcerer • 🌐 Web Craftsman  
+*“The code compiles in silence, and that’s when I know I’ve gone too far.”*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br>
 
-</div>
+[![Email](https://img.shields.io/badge/Email-nilaymishra2011%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:nilaymishra2011@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=firefox&logoColor=white)](https://nilayportfolio.vercel.app)
+[![Discord](https://img.shields.io/badge/Discord-titoronia-black?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/titoronia)
 
-## 🌐 Connect With Me  
+<br>
 
-<p align="center">
-  <a href="mailto:nilaymishra2011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nilaymishra2011%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&borderRadius=30" />
-  </a>
-  <a href="https://nilayportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9333EA?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000&borderRadius=30" />
-  </a>
-  <a href="https://discord.com/users/titoronia">
-    <img src="https://img.shields.io/badge/Discord-titoronia-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&borderRadius=30" />
-  </a>
-</p>
+### 🧰 Stack & Tools
+<img src="https://skillicons.dev/icons?i=ae,pr,ps,html,css,js,react,nextjs,tailwind,python,java,git,github,vscode&theme=dark&perline=7" />
 
----
+<br>
 
-## ⚙️ Skills & Tools  
+### ✦ Featured Work
+<a href="https://solace-self.vercel.app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourLocalJesus-dev&repo=solace&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" />
+</a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ae,pr,ps,html,css,js,react,nextjs,tailwind,python,java,git,github,vscode&theme=dark" />
-</p>
+<br>
 
----
-
-## 🚀 Featured Work  
+### 📊 Analytics
 
 <p align="center">
-  <a href="https://solace-self.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourLocalJesus-dev&repo=solace&theme=nightowl&hide_border=true&bg_color=0D1117&border_radius=16" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=YourLocalJesus-dev&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&background=00000000" />
 </p>
-
----
-
-## 📊 My Metrics  
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YourLocalJesus-dev&theme=tokyonight&hide_border=true&border_radius=16&background=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourLocalJesus-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=16" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourLocalJesus-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa" />
 </p>
 
----
+<br>
 
-## 🌌 Contribution Flow  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<div align="center">
-
-<h3>✨ “The code compiles in silence, and that’s when I know I’ve gone too far.” ✨</h3>  
+### 🌌 Contribution Flow
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
 
 </div>
