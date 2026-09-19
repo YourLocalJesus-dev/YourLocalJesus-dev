@@ -10,7 +10,7 @@
 
 [![Email](https://img.shields.io/badge/Email-nilaymishra2011%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:nilaymishra2011@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=firefox&logoColor=white)](https://nilayportfolio.vercel.app)
-[![Discord](https://img.shields.io/badge/Discord-titoronia-black?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/900207027127730248)
+[![Discord](https://img.shields.io/badge/Discord-match-black?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/900207027127730248)
 
 <br>
 
